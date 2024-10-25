@@ -1,5 +1,5 @@
 - 👋 Hi i am Satyam Vinayak
-- 👀 I am currently my b tech degree in Computer Science with specialization in AIML
+- 👀 I am currently pursuing my b tech degree in Computer Science with specialization in AIML
 - 🌱 I’m currently learning DSA, Machine Learning and Web Developement
 - 💞️ I’m looking to collaborate on projects of web devlopement
 - 📫 How to reach me ...
